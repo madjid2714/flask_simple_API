@@ -3,7 +3,7 @@ Cette procédure va porter sur la création d’une API en Python basée sur Fla
 
 Le but de cette procédure est de mettre en place un site Web très basique sur lequel on pourra, suivant l’URL demandée (routes), afficher diverses informations contenues dans une base de données au format SQLite.
 
-Lancer le script : requirements.sh 
+Lancer le script  requirements.sh  avec sudo : 
 
 J’ai utilisé le dossier suivant /opt/sqlite3-databases à titre d’exemple mais si vous choisissez le votre, veillez à corriger la 7ème ligne du script. Vérifiez aussi les droits si vous avez des erreurs.
 
